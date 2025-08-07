@@ -1,0 +1,1 @@
+class StrategiesTab(QWidget):
